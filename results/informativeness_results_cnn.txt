@@ -1,0 +1,26 @@
+task_informative_text_img_agreed_lab_dev.tsv
+0.8118	0.81	0.8118	0.81	0.7641
+                 precision    recall  f1-score   support
+
+    informative       0.83      0.90      0.87      1056
+not_informative       0.76      0.62      0.69       517
+
+       accuracy                           0.81      1573
+      macro avg       0.80      0.76      0.78      1573
+   weighted avg       0.81      0.81      0.81      1573
+task_informative_text_img_agreed_lab_test.tsv
+0.8266	0.8233	0.83	0.8222	0.7827
+                 precision    recall  f1-score   support
+
+    informative       0.84      0.91      0.88      1030
+not_informative       0.78      0.65      0.71       504
+
+       accuracy                           0.83      1534
+      macro avg       0.81      0.78      0.79      1534
+   weighted avg       0.82      0.83      0.82      1534
+Pred
+Gold	informative	not_informative	All
+informative	938	92	1030
+not_informative	174	330	504
+All	1112	422	1534
+
