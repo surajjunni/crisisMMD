@@ -12,6 +12,9 @@ Install the module with: `pip install requirements.txt`.
 python textonlymodel.py
 ```
 
+## Result
+![image](https://user-images.githubusercontent.com/30294897/153732792-da9baa3c-dc52-49e6-9f3f-cf4a316315fc.png)
+
 ### Embedding Model
 
 I have used a pretrained model crisis_word2vec to map words into embedding.
