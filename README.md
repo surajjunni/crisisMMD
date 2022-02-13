@@ -7,6 +7,7 @@ Implementing the [crisisMMD paper](https://arxiv.org/pdf/1805.00713.pdf)
 ## Usage
 Install the module with: `pip install requirements.txt`.
 
+### text model
 ```python
 python textonlymodel.py
 ```
