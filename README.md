@@ -12,8 +12,20 @@ Install the module with: `pip install requirements.txt`.
 python textonlymodel.py
 ```
 
+### image model
+```python
+python imageonlymodel.py
+```
+### textimage model
+Here we are considering three cases for the model.
+1.Concatenation(Case3)
+2.Linear transformation(Case1)
+3.Log likelihood(Case2)
+
+Run the files which is in the format crisis_(hum/info)_{casetype}.slurm
+
 ## Result
-![image](https://user-images.githubusercontent.com/30294897/153732792-da9baa3c-dc52-49e6-9f3f-cf4a316315fc.png)
+![image](result.png)
 
 ### Embedding Model
 
