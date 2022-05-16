@@ -63,5 +63,13 @@ For Image:
 
 Image-->datapreprocess-->vgg16 model--->classifier
 
+For TextImage:
+
+Case1:
+![image1](case1.PNG)
+
+Case2:
+![image2](case2.PNG)
+
 ## References
 https://github.com/firojalam/crisis_datasets_benchmarks
