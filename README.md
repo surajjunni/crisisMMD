@@ -49,7 +49,7 @@ Here the paper talks about 3 tasks with the dataset.Following are tasks metioned
 2)Humanitarian
 3)Severity
 
-##Model
+## Model
 Here we are considering 3 Models:
 1)Textonly model
 2)Image only model
@@ -65,11 +65,11 @@ Image-->datapreprocess-->vgg16 model--->classifier
 
 For TextImage:
 
-##Case1:
+## Case1:
 
 ![image1](case1.PNG)
 
-##Case2:
+## Case2:
 ![image2](case2.PNG)
 
 ## References
