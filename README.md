@@ -25,7 +25,7 @@ Here we are considering three cases for the model.
 Run the files which is in the format crisis_(hum/info)_{casetype}.slurm
 
 ## Result
-![image](result.png)
+![image](result.PNG)
 
 ### Embedding Model
 
